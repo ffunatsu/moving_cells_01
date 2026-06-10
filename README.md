@@ -4,7 +4,7 @@ study artwork "moving_cells_01" / bevy 0.16
 
 ## Interactive Demo
 
-https://funatsufumiya.github.io/moving_cells_01/
+https://ffunatsu.github.io/moving_cells_01/
 
 (Wait patiently for the first time.)
 
